@@ -1,4 +1,8 @@
 
+body {
+  margin-top: 10px;
+}
+
 .jumbotron {
 
   background-color: lightgreen;
