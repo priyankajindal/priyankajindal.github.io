@@ -1,0 +1,15 @@
+
+body {
+  margin-top: 10px;
+}
+
+.jumbotron {
+
+  background-color: white;
+
+  font-family: cursive;
+  font-size: 18px;
+  color: black;
+  padding-top: 20px;
+  
+}
