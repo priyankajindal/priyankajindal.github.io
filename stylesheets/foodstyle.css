@@ -4,6 +4,7 @@ body {
 }
 
 .backgroundwrapper{
+<<<<<<< HEAD
 /*
 	background: url("../images/background-gastronomy.png") no-repeat;*/
 
@@ -21,6 +22,16 @@ body {
 .jumbotron {
 
   background-color: transparent;
+=======
+
+	background: url("../images/background-gastronomy.png") no-repeat;
+	background-size: 100% auto;
+}
+
+.jumbotron {
+
+  background-color: lightgreen;
+>>>>>>> FETCH_HEAD
  font-family: cursive;
  font-size: 18px;
  color: black;
