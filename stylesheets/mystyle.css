@@ -18,12 +18,10 @@ body {
 .mybanner{
 
 	background: url("../images/background-skyline.png") no-repeat;
-<<<<<<< HEAD
+
 /*	background-size: 100% auto;*/
 	background-attachment: fixed;
-=======
-	background-size: 100% auto;
->>>>>>> FETCH_HEAD
+
 }
 
 .mydivider{ 
@@ -34,11 +32,6 @@ body {
 	padding-right: 15px;
 	padding-left: 15px;
 	background: url("../images/divider.jpg") no-repeat;
-<<<<<<< HEAD
-	background-attachment: fixed;
-=======
-
->>>>>>> FETCH_HEAD
 	height: 450px;
 
 }
