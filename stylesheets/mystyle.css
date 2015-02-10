@@ -32,6 +32,7 @@ body {
 	padding-right: 15px;
 	padding-left: 15px;
 	background: url("../images/divider.jpg") no-repeat;
+	background-attachment: fixed;
 	height: 450px;
 
 }
