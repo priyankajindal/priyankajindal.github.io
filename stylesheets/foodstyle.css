@@ -3,14 +3,28 @@ body {
   margin-top: 10px;
 }
 
+.backgroundwrapper{
+/*
+	background: url("../images/background-gastronomy.png") no-repeat;*/
+
+}
+
+.style {
+ background-color: transparent;
+ font-family: cursive;
+ font-size: 18px;
+ color: black;
+ padding-top: 10px;
+  
+}
+
 .jumbotron {
 
-  background-color: lightgreen;
-
-  font-family: cursive;
-  font-size: 6px;
-  color: black;
-  padding-top: 10px;
+  background-color: transparent;
+ font-family: cursive;
+ font-size: 18px;
+ color: black;
+ padding-top: 10px;
 }
 
 .btn-success{
@@ -26,3 +40,4 @@ color: white;
 background-color: black;
 border-color: #398439;
 }
+
